@@ -1,0 +1,13 @@
+ Project Description
+
+The Password Strength Analyzer is a cybersecurity tool that checks how strong a password is.
+
+It analyzes the password based on:
+
+Length: Checks the number of characters.
+Uppercase letters: Checks for capital letters (A–Z).
+Lowercase letters: Checks for small letters (a–z).
+Numbers: Checks for digits (0–9).
+Special characters: Checks for symbols such as @, #, and $.
+
+Based on these checks, the tool classifies the password as Weak, Medium, or Strong and provides suggestions to improve it.
